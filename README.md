@@ -13,15 +13,17 @@ A Python-based Streamlit **Video/Audio Summarization Application** that allows u
 
 <table>
   <tr>
-    <td align="center">Upload Screen</td>
     <td align="center">Transcription Output</td>
-    <td align="center">Summary Output</td>
+    <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/TranscriptionOutput.jpg" width="200" height="334"/></td>
   </tr>
   <tr>
+    <td align="center">Summary Output</td>
     <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/UploadScreen.jpg" width="200" height="334"/></td>
-    <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/TranscriptionOutput.jpg" width="200" height="334"/></td>
-    <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/SummaryOutput.jpg" width="200" height="334"/></td>
   </tr>
+<tr>
+  <td align="center">Upload Screen</td>
+  <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/SummaryOutput.jpg" width="200" height="334"/></td>
+</tr>
 </table>
 
 ## Installation
