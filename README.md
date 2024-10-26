@@ -14,7 +14,7 @@ A Python-based Streamlit **Video/Audio Summarization Application** that allows u
 <table>
   <tr>
     <td align="center">Home Screen</td>
-    <td><img src="https://github.com/LavKalsi/Video-Audio-Summarization-App/blob/main/Screenshots/Home%20Screen.jpg" width="1280" height="568"/></td>
+    <td><img src="https://github.com/LavKalsi/Video-Audio-Summarization-App/blob/main/Screenshots/Home%20Screen.jpg" width="640" height="294"/></td>
   </tr>
   <tr>
     <td align="center">Transcription Output</td>
