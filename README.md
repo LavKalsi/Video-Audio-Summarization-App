@@ -13,16 +13,16 @@ A Python-based Streamlit **Video/Audio Summarization Application** that allows u
 
 <table>
   <tr>
-    <td align="center">Transcription Output</td>
-    <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/TranscriptionOutput.jpg" width="200" height="334"/></td>
+    <td align="center">Home Screen</td>
+    <td><img src="https://github.com/LavKalsi/Video-Audio-Summarization-App/blob/main/Screenshots/Home%20Screen.jpg" width="1280" height="568"/></td>
   </tr>
   <tr>
-    <td align="center">Summary Output</td>
-    <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/UploadScreen.jpg" width="200" height="334"/></td>
+    <td align="center">Transcription Output</td>
+    <td><img src="https://github.com/LavKalsi/Video-Audio-Summarization-App/blob/main/Screenshots/TranscriptionExample.jpg" width="600" height="200"/></td>
   </tr>
 <tr>
-  <td align="center">Upload Screen</td>
-  <td><img src="https://github.com/LavKalsi/SummarizationApp/blob/master/Screenshots/SummaryOutput.jpg" width="200" height="334"/></td>
+  <td align="center">Summary Output</td>
+  <td><img src="https://github.com/LavKalsi/Video-Audio-Summarization-App/blob/main/Screenshots/SummaryExample.jpg" width="600" height="200"/></td>
 </tr>
 </table>
 
